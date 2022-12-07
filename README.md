@@ -1,4 +1,4 @@
-# memjet-code-example
+# Personal e-commerce website
 
 This project WILL NOT RUN unless:
 
